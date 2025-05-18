@@ -5,6 +5,12 @@
 
 ---
 
+## 📄 Χειροκίνητο Χρήστη (User Manual)
+
+Μπορείτε να δείτε ή να κατεβάσετε το manual [εδώ](docs/Sudoku_Manual.pdf).
+
+---
+
 ## 📦 Λειτουργία
 
 Το πρόγραμμα:
@@ -51,13 +57,7 @@ go run sudoku.go ".96.4...1" "1...6...4" "5.481.39." "..795..43" ".3..8...." "4.
 
 Το παρακάτω διάγραμμα παρουσιάζει τη βασική ροή της κύριας συνάρτησης:
 
-![Sudoku Flowchart](./sudoku-diagram.png)
-
----
-
-## 📄 Χειροκίνητο Χρήστη (User Manual)
-
-Μπορείτε να δείτε ή να κατεβάσετε το manual [εδώ](docs/Sudoku_Manual.pdf).
+![Sudoku Flowchart](images/sudoku-diagram.png)
 
 ---
 
